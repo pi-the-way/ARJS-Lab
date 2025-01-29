@@ -1,0 +1,36 @@
+body{
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+input{
+  width: 20rem;
+  height: 2rem;
+  border-radius: 10px;
+  padding: 0.5rem;
+}
+
+li{
+  list-style-type: none;
+  margin: 0.5rem;
+  background-color: teal;
+  border-radius: 10px;
+  color: white;
+  font-weight: 700;
+  font-size: large;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  text-align: center;
+}

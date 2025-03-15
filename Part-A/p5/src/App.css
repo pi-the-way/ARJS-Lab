@@ -1,0 +1,11 @@
+.checklist {
+  margin-bottom: 1rem;
+}
+
+.checklist-item {
+  margin: 0.5rem 0;
+}
+
+.selected-options {
+  padding-top: 1rem;
+}
